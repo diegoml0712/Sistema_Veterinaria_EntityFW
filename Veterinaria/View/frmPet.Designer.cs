@@ -153,10 +153,10 @@
             // txtPCon
             // 
             this.txtPCon.CutCopyMaskFormat = System.Windows.Forms.MaskFormat.IncludePromptAndLiterals;
-            this.txtPCon.Location = new System.Drawing.Point(322, 117);
-            this.txtPCon.Mask = "00/00/0000";
+            this.txtPCon.Location = new System.Drawing.Point(314, 117);
+            this.txtPCon.Mask = "00/00/0000 00:00";
             this.txtPCon.Name = "txtPCon";
-            this.txtPCon.Size = new System.Drawing.Size(72, 20);
+            this.txtPCon.Size = new System.Drawing.Size(104, 20);
             this.txtPCon.TabIndex = 7;
             this.txtPCon.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtPCon.TextMaskFormat = System.Windows.Forms.MaskFormat.IncludePromptAndLiterals;
